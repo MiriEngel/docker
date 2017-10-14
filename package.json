@@ -1,0 +1,10 @@
+{
+  "name": "tweet-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~4.0.0"
+  }
+}
